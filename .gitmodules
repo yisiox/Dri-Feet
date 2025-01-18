@@ -1,0 +1,6 @@
+[submodule "dry-feet-backend"]
+	path = dry-feet-backend
+	url = git@github.com:yisiox/dry-feet-backend.git
+[submodule "dry-feet"]
+	path = dry-feet
+	url = git@github.com:ryanozx/dry-feet.git
